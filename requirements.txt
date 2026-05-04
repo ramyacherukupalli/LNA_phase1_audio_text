@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+gTTS
+audio-recorder-streamlit
+groq
+requests
